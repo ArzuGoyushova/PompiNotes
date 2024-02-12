@@ -143,7 +143,7 @@ const Home = () => {
                     title="Add a Note"
                     onPress={addNote}
                     color="#8e44ad"
-                    style={{ borderRadius: 10, borderWidth: 2, borderColor: '#27ae60', /* Additional styles */ }}
+                    style={{ borderRadius: 10, borderWidth: 2, borderColor: '#27ae60' }}
                 />
 
             </View>
